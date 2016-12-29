@@ -1,0 +1,14 @@
+{
+    "name": "itsmethemojo/requstLimiter",
+    "autoload": {
+        "psr-4": {
+            "Itsmethemojo\\": "src/"
+        }
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "2.*"
+    },
+    "require": {
+        "phpunit/phpunit": "4.8.26"
+    }
+}
